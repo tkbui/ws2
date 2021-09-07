@@ -1,0 +1,4 @@
+The following numbers are in relation to verified and unverified reviews, respectively, from the Amazon dataset.
+----------------------------------------------------------------------------------------------------------------------
+Line count (Number of verified reviews): 229346    | Word count: 229346  | Byte count: 458692  | File: verified.txt
+Line count (Number of unverified reviews): 2876174 | Word count: 2876174 | Byte count: 5752348 | File: unverified.txt
